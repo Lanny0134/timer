@@ -11,3 +11,4 @@ Cree XHP35 6500K Triple up LED
 Carclo 10510 Elliptcal 3-up Optic
 
 Button has functions to switch LED, delay the start time or lock the LED off. 
+ 
